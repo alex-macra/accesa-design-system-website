@@ -34,14 +34,6 @@
         openedSymbol: '<i class="lni-chevron-down"></i>',
       });
 
-      /* WOW Scroll Spy
-    ========================================================*/
-     var wow = new WOW({
-      //disabled for mobile
-        mobile: false
-    });
-
-    wow.init();
 
      /* Testimonials Carousel 
     ========================================================*/
