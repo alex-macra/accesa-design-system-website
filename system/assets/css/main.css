@@ -190,10 +190,6 @@ button:focus {
   -o-transition: all 0.3s ease-in-out 0s;
 }
 
-.social-icon a:hover {
-  color: #fff !important;
-}
-
 .social-icon .facebook:hover {
   background: #3b5999;
 }
@@ -1241,4 +1237,8 @@ textarea {
 
 #components * {
   color: #fff;
+}
+
+.social-icon a:hover {
+  color: #fff !important;
 }
